@@ -1,0 +1,276 @@
+.container
+{
+    display: block;
+}
+.bck-img
+{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.Intro
+{
+    display: inline-flex;
+    flex-direction: column;
+    position: absolute;
+    top: 20vw;
+    left: 5vw;
+    font-family: 'Grape Nuts', cursive;
+    font-size: 40px;
+    font-weight: 100px;
+}
+.Intro-text
+{
+    color: white;
+    display: inline-flex;
+    flex-direction: column;
+    position: absolute;
+    top: 29vw;
+    left: 5vw;
+    font-family: 'Outfit', sans-serif;
+}
+.blank-space
+{
+    position: absolute;
+    background-color: white;
+    height: 639px;
+    width: 634px;
+    margin-top: -710px;
+    margin-left: 869px;
+}
+.my-img
+{
+
+    position: absolute;
+    flex-direction: column;
+    right: 582px;
+    top: 6vh;
+    border-radius: 400px 0px 0px 400px;
+    width: 600px;
+}
+
+.top-container > h1
+{
+    text-align: center;
+    color: #E6CF5A;
+    font-family: 'Outfit', sans-serif;
+}
+
+.second-container
+{
+    display: block;
+    background-color: rgba(224, 141, 39, 0.688);
+    height: 100vh;
+    position: relative;
+}
+
+.second-container > h1
+{
+    position: absolute;
+    top: 50%;
+    font-family: 'Merriweather', serif;
+}
+.Y1
+{
+    color: white;
+    margin-top: -190px ;
+    margin-left: 27%;
+}
+.skill
+{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    font-weight: 100;
+    margin-top: -50px;
+    margin-left: 27%;
+}
+
+.html
+{
+    position: absolute;
+    top:12.28vh;
+    left:10%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.one
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(12deg);
+    margin-left: 273px;
+    margin-top: 125px;
+    
+}
+
+.two
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(12deg);
+    transform: rotate(13deg);
+    margin-left: 619px;
+    margin-top: 219px;
+    width: 482px;
+    height: 93px;
+    text-align: center;
+}
+.three 
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(23deg);
+    margin-left: 946px;
+    margin-top: 319px;
+    width: 482px;
+    height: 93px;
+    text-align: center;
+}
+.four 
+{
+    position: absolute;
+    margin-left: 1252px;
+    margin-top: 381px;
+    width: 337px;
+    height: 93px;
+    text-align: center;
+    font-size: 38px;
+}
+.five 
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(-25deg);
+    margin-left: 947px;
+    margin-top: 408px;
+    width: 482px;
+    height: 93px;
+    text-align: center;
+}
+.six 
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(-11deg);
+    margin-left: 626px;
+    margin-top: 492px;
+    width: 482px;
+    height: 93px;
+    text-align: center;
+}
+.seven
+{
+    position: absolute;
+    font-size: 100px;
+    transform: rotate(-11deg);
+    margin-left: 166px;
+    margin-top: 582px;
+    width: 482px;
+    height: 93px;
+    text-align: center;
+}
+.css
+{
+    position: absolute;
+    top:24.56vh;
+    left:40%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.js
+{
+    position: absolute;
+    top:36.84vh;
+    left:70%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.react
+{
+    position: absolute;
+    top:49.12vh;
+    left:85%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.node
+{
+    position: absolute;
+    top:61.4vh;
+    left: 70%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.sql
+{
+    position: absolute;
+    top:73.68vh;
+    left:40%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.W3
+{
+    position: absolute;
+    top:85.96vh;
+    left:10%;
+    height: 12.5vh;
+    width: 12.5vh;
+    border-radius: 100%;
+}
+.project > h1
+{
+    text-align: center;
+    color: #E6CF5A;
+}
+
+.project-title
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+.project1-description
+{
+    text-align: center;
+    font-size: 20px
+}
+.project-demo
+{
+    display:flex;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    width: 100vw;
+}
+.drowsiness
+{
+    margin-left: 39%;
+    margin-bottom: 10px;
+}
+.details
+{
+    text-align: center;
+}
+.info
+{
+    text-align: center;
+}
+
+.top-container.details {
+    background-color: beige;
+    font-size: 37px;
+    margin-top: 10px;
+}
+.info
+{
+    text-align: center;
+    background-color: aquamarine;
+}
